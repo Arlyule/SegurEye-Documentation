@@ -62,7 +62,7 @@ El proyecto consiste en desarrollar un sistema de seguridad inteligente que util
 
 # Arquitectura del proyecto
 
-<img src="" width="1000" >
+<img src="https://github.com/Arlyule/SegurEye-Documentation/assets/105952154/d86b6438-d785-499e-b569-737a3738ae21" width="1000" >
 
 # Captura de pantalla del tablero kanban
 
