@@ -4,7 +4,7 @@
 Ser una organización de desarrollo de software basada en el compromiso con la innovación, la seguridad y la facilidad de uso, 
 ofreciendo soluciones tecnológicas avanzadas que mejoren la calidad de vida de nuestros usuarios mediante sistemas de seguridad inteligentes y accesibles.
 
-## Descripción del Proyecto
+# Descripción del Proyecto
 El proyecto consiste en desarrollar un sistema de seguridad inteligente que utilice una cámara instalada en la puerta principal para detectar y reconocer a los visitantes, proporcionando un control de acceso seguro y conveniente para los residentes del hogar. El sistema estará equipado con tecnologías avanzadas como reconocimiento facial y detección de objetos inteligente, ofreciendo una experiencia de seguridad innovadora y fácil de usar.
 
 # Software Empleados
@@ -42,28 +42,39 @@ El proyecto consiste en desarrollar un sistema de seguridad inteligente que util
 | 2     | Control de Acceso | Alta | 5 |
 | 3     | Interfaz de Usuario Intuitiva | Media | 3 |
 
-## Épicas
+# Épicas del Proyecto Wearable
 
-### 1. Reconocimiento de Visitantes
-- **Descripción**: Implementar la capacidad de reconocer a los visitantes autorizados y no autorizados que se acerquen a la puerta.
-- **Historias de Usuario**:
-  - Como residente, quiero que el sistema reconozca automáticamente a los visitantes autorizados para permitirles el acceso sin necesidad de llaves.
-  - Como residente, quiero recibir una notificación cuando el sistema detecte a un visitante no autorizado para poder tomar medidas adicionales de seguridad.
+## 1. Reconocimiento de Visitantes
+**Descripción:** Implementar la capacidad de reconocer a los visitantes autorizados y no autorizados que se acerquen a la puerta.
 
-### 2. Control de Acceso
-- **Descripción**: Desarrollar funciones para permitir a los residentes controlar el acceso a través de la puerta principal.
-- **Historias de Usuario**:
-  - Como residente, quiero poder abrir la puerta usando comandos de voz para mayor conveniencia.
-  - Como residente, quiero recibir una alerta cuando alguien intente abrir la puerta sin autorización para poder verificar la situación.
+**Historias de Usuario:**
+- Como residente, quiero que el sistema reconozca automáticamente a los visitantes autorizados para evitar activar algún sistema de alertas.
+- Como residente, quiero recibir una notificación cuando el sistema detecte a un visitante no autorizado para poder tomar medidas adicionales de seguridad.
 
-### 3. Interfaz de Usuario Intuitiva
-- **Descripción**: Crear una interfaz de usuario fácil de usar para controlar y monitorear el sistema de seguridad.
-- **Historias de Usuario**:
-  - Como residente, quiero poder ver imágenes en tiempo real de la cámara de la puerta desde mi dispositivo móvil para verificar quién está afuera.
-  - Como residente, quiero poder personalizar la disposición de los elementos en la pantalla para adaptarse a mis preferencias.
+## 2. Interfaz de Usuario Intuitiva
+**Descripción:** Crear una interfaz de usuario fácil de usar para controlar y monitorear el sistema de seguridad.
+
+**Historias de Usuario:**
+- Como residente, quiero poder ver imágenes en tiempo real de la cámara de la puerta desde mi dispositivo móvil para verificar quién está afuera.
+- Como residente, quiero poder ver toda la información registrada por el sistema de seguridad por medio de reportes, gráficas y tablas.
+
+## 3. Integración de Dispositivos IoT
+**Descripción:** Integrar el sistema de seguridad con otros dispositivos IoT del hogar para una mayor automatización y control.
+
+**Historias de Usuario:**
+- Como usuario, quiero que el sistema se integre con las luces inteligentes para que se enciendan automáticamente cuando se detecte movimiento en la puerta principal.
+- Como usuario, quiero que el sistema se integre con un sistema de alarmas para que se enciendan automáticamente cuando se detecte movimiento en la puerta principal.
+- Como usuario, quiero poder tomar medidas de seguridad en caso de sentirme en peligro como disparar gas pimienta para alejar a un intruso.
+
+## 4. Registro de Visitantes y Alertas Personalizadas
+**Descripción:** Desarrollar una función para registrar a los visitantes autorizados y enviar alertas personalizadas a los residentes.
+
+**Historias de Usuario:**
+- Como usuario, quiero poder registrar a los visitantes autorizados en el sistema para saber cuándo se acercan visitantes/familiares.
+- Como usuario, quiero recibir una alerta personalizada cuando llegue un visitante específico, como un paquete de entrega, para poder atenderlo rápidamente.
 
 
-# Fotografía tomada del dibujo del prototipo propuesto por el equipo para el proyecto 
+# Fotografía del prototipo propuesto por el equipo
 
 <img src="https://github.com/Arlyule/SegurEye-Documentation/assets/105952154/9ef0944d-dd46-4e1e-a016-2a45b0736386" width="1000" >
 
@@ -71,7 +82,7 @@ El proyecto consiste en desarrollar un sistema de seguridad inteligente que util
 
 <img src="https://github.com/Arlyule/SegurEye-Documentation/assets/105952154/9fac58bd-3943-41b1-8664-4b3c161cd41a" width="1000" >
 
-# Captura de pantalla del tablero kanban
+# Captura de pantalla del tablero Kanban
 
 <img src="https://github.com/Arlyule/SegurEye-Documentation/assets/105952154/ce28cba9-c5c4-4000-8ed5-8c3197386682" width="1000" >
 
