@@ -14,6 +14,10 @@ El proyecto consiste en desarrollar un sistema de seguridad inteligente que util
 | Arduino IDE | GNU General Public License (GPL) | 
 | Node Red | Apache License 2.0 | 
 | Flutter (Propuesta) | BSD 3-Clause License | 
+| ESP32 S3 LVGL | MIT |
+| ESP32 Camera | MIT |
+| Servo FS90R |	LGPL-2.1 |
+| Arduino-PIR |	MIT |
 
 # Hardware empleado
 | Nombre | Imagen | Descripción | Cantidad |
@@ -26,7 +30,7 @@ El proyecto consiste en desarrollar un sistema de seguridad inteligente que util
 | Jumper Macho-Macho | <img src="https://github.com/Arlyule/SegurEye-Documentation/assets/105952154/0dc09801-833e-4635-9293-84b0f8350037" alt="Jumper Macho-Macho" width="150"/>| Estos cables están diseñados para conectar componentes electrónicos entre sí. Tienen un conector macho en cada extremo, lo que les permite establecer conexiones temporales en una protoboard o en un circuito impreso. | 40 |
 | Jumper Macho-Hembra | <img src="https://github.com/Arlyule/SegurEye-Documentation/assets/105952154/6449b658-7fdb-4a4b-8c57-8e37dee4059c" alt="Jumper Macho-Hembra" width="150"/>| Estos cables tienen un conector macho en un extremo y un conector hembra en el otro. Son útiles para conectar componentes electrónicos con diferentes tipos de pines, como microcontroladores y sensores, a una protoboard. | 40 |
 | Protoboard | <img src="https://github.com/Arlyule/SegurEye-Documentation/assets/105952154/2b68b33c-ef44-4fb1-a582-9407515812d2" width="150"/>| Una protoboard es una placa de pruebas que permite la conexión temporal de componentes electrónicos. Tiene una matriz de agujeros y líneas conductoras que facilitan la creación de circuitos y prototipos. Es una herramienta fundamental en el desarrollo y la depuración de proyectos electrónicos. | 1 |
-| Servo | <img src="https://github.com/Arlyule/SegurEye-Documentation/assets/105952154/783bff7a-2f3e-4497-8bb1-ed898a5c9d5c" width="150"/>| Un servo es un dispositivo que combina un motor, un sensor de posición y un circuito de control. Se utiliza para controlar el movimiento angular de manera precisa y es común en aplicaciones robóticas, sistemas de control de aeronaves, y dispositivos de automatización. | 1 |
+| Servo FS90R | <img src="https://github.com/Arlyule/SegurEye-Documentation/assets/105952154/783bff7a-2f3e-4497-8bb1-ed898a5c9d5c" width="150"/>| Un servo es un dispositivo que combina un motor, un sensor de posición y un circuito de control. Se utiliza para controlar el movimiento angular de manera precisa y es común en aplicaciones robóticas, sistemas de control de aeronaves, y dispositivos de automatización. | 1 |
 | Raspberry Pi | <img src="https://github.com/Arlyule/SegurEye-Documentation/assets/105952154/81997ce3-5a3f-4dc8-9280-e56f4c0c50c5" width="150"/> | La Raspberry Pi es una serie de computadoras de placa única de bajo costo desarrolladas por la Fundación Raspberry Pi. Se utilizan ampliamente en proyectos educativos y de desarrollo por su capacidad para ejecutar un sistema operativo completo y su compatibilidad con una variedad de lenguajes de programación y dispositivos periféricos. | 1 |
 
 
@@ -65,7 +69,7 @@ El proyecto consiste en desarrollar un sistema de seguridad inteligente que util
 
 # Arquitectura del proyecto
 
-<img src="https://github.com/Arlyule/SegurEye-Documentation/assets/105952154/d86b6438-d785-499e-b569-737a3738ae21" width="1000" >
+<img src="https://github.com/Arlyule/SegurEye-Documentation/assets/105952154/9fac58bd-3943-41b1-8664-4b3c161cd41a" width="1000" >
 
 # Captura de pantalla del tablero kanban
 
