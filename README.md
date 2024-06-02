@@ -1,5 +1,18 @@
 # Proyecto de Sistema de Seguridad con Cámara en la Puerta
 
+# Equipo de Desarrollo
+
+## Scrum Master
+Carlos Mata
+
+## Product Owner
+Julio Torres
+
+## Equipo Scrum
+1. Carlos Mata (Scrum Master) 
+2. Julio Torres (Product Owner)
+3. Joel Morales
+
 # Visión
 Ser una organización de desarrollo de software basada en el compromiso con la innovación, la seguridad y la facilidad de uso, 
 ofreciendo soluciones tecnológicas avanzadas que mejoren la calidad de vida de nuestros usuarios mediante sistemas de seguridad inteligentes y accesibles.
@@ -92,23 +105,4 @@ El proyecto consiste en desarrollar un sistema de seguridad inteligente que util
 <img src="https://github.com/Arlyule/SegurEye-Documentation/assets/105952154/70accff0-6133-4922-b106-7951473b91a9" width="1000" >
 
 # Resultados
-
-
-# Equipo de Desarrollo
-
-## Scrum Master
-Carlos Mata
-
-## Product Owner
-Julio Torres
-
-## Equipo Scrum
-1. Carlos Mata (Scrum Master) 
-2. Julio Torres (Product Owner)
-3. Joel Morales
-
-
-
-## Product Backlog
-
-
+Aquí se listaran los resultados
