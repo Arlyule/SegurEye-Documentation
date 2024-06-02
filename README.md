@@ -65,7 +65,7 @@ El proyecto consiste en desarrollar un sistema de seguridad inteligente que util
 
 # Fotografía tomada del dibujo del prototipo propuesto por el equipo para el proyecto 
 
-<img src="" width="1000" >
+<img src="https://github.com/Arlyule/SegurEye-Documentation/assets/105952154/9ef0944d-dd46-4e1e-a016-2a45b0736386" width="1000" >
 
 # Arquitectura del proyecto
 
