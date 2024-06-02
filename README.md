@@ -26,6 +26,9 @@ El proyecto consiste en desarrollar un sistema de seguridad inteligente que util
 | Jumper Macho-Macho | <img src="https://github.com/Arlyule/SegurEye-Documentation/assets/105952154/0dc09801-833e-4635-9293-84b0f8350037" alt="Jumper Macho-Macho" width="150"/>| Estos cables están diseñados para conectar componentes electrónicos entre sí. Tienen un conector macho en cada extremo, lo que les permite establecer conexiones temporales en una protoboard o en un circuito impreso. | 40 |
 | Jumper Macho-Hembra | <img src="https://github.com/Arlyule/SegurEye-Documentation/assets/105952154/6449b658-7fdb-4a4b-8c57-8e37dee4059c" alt="Jumper Macho-Hembra" width="150"/>| Estos cables tienen un conector macho en un extremo y un conector hembra en el otro. Son útiles para conectar componentes electrónicos con diferentes tipos de pines, como microcontroladores y sensores, a una protoboard. | 40 |
 | Protoboard | <img src="https://github.com/Arlyule/SegurEye-Documentation/assets/105952154/2b68b33c-ef44-4fb1-a582-9407515812d2" width="150"/>| Una protoboard es una placa de pruebas que permite la conexión temporal de componentes electrónicos. Tiene una matriz de agujeros y líneas conductoras que facilitan la creación de circuitos y prototipos. Es una herramienta fundamental en el desarrollo y la depuración de proyectos electrónicos. | 1 |
+| Servo | <img src="https://github.com/Arlyule/SegurEye-Documentation/assets/105952154/783bff7a-2f3e-4497-8bb1-ed898a5c9d5c" width="150"/>| Un servo es un dispositivo que combina un motor, un sensor de posición y un circuito de control. Se utiliza para controlar el movimiento angular de manera precisa y es común en aplicaciones robóticas, sistemas de control de aeronaves, y dispositivos de automatización. | 1 |
+| Raspberry Pi | <img src="https://github.com/Arlyule/SegurEye-Documentation/assets/105952154/81997ce3-5a3f-4dc8-9280-e56f4c0c50c5" width="150"/> | La Raspberry Pi es una serie de computadoras de placa única de bajo costo desarrolladas por la Fundación Raspberry Pi. Se utilizan ampliamente en proyectos educativos y de desarrollo por su capacidad para ejecutar un sistema operativo completo y su compatibilidad con una variedad de lenguajes de programación y dispositivos periféricos. | 1 |
+
 
 # Historias de usuario épicas
 
@@ -70,6 +73,7 @@ El proyecto consiste en desarrollar un sistema de seguridad inteligente que util
 
 # Circuito diseñado para el proyecto completo 
 
+<img src="https://github.com/Arlyule/SegurEye-Documentation/assets/105952154/1939a96f-9b2e-4764-af6d-adb9d5e10132" width="1000" >
 <img src="https://github.com/Arlyule/SegurEye-Documentation/assets/105952154/70accff0-6133-4922-b106-7951473b91a9" width="1000" >
 
 # Resultados
