@@ -14,8 +14,7 @@
 3. Joel Morales
 
 # Visión
-Ser una organización de desarrollo de software basada en el compromiso con la innovación, la seguridad y la facilidad de uso, 
-ofreciendo soluciones tecnológicas avanzadas que mejoren la calidad de vida de nuestros usuarios mediante sistemas de seguridad inteligentes y accesibles.
+El proyecto busca revolucionar la seguridad del hogar mediante la implementación de un sistema inteligente y autónomo que utiliza tecnología avanzada para detectar, reconocer y gestionar la entrada de visitantes en la puerta principal. Este sistema proporcionará a los residentes una solución de seguridad integral que combina comodidad, eficiencia y protección, asegurando un entorno más seguro y controlado.
 
 # Descripción del Proyecto
 El proyecto consiste en desarrollar un sistema de seguridad inteligente que utilice una cámara instalada en la puerta principal para detectar y reconocer a los visitantes, proporcionando un control de acceso seguro y conveniente para los residentes del hogar. El sistema estará equipado con tecnologías avanzadas como reconocimiento facial y detección de objetos inteligente, ofreciendo una experiencia de seguridad innovadora y fácil de usar.
