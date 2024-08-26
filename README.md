@@ -11,7 +11,6 @@
 ## Equipo Scrum
 1. Carlos Mata (Scrum Master) 
 2. Julio Torres (Product Owner)
-3. Joel Morales
 
 # Visión
 El proyecto busca revolucionar la seguridad del hogar mediante la implementación de un sistema inteligente y autónomo que utiliza tecnología avanzada para detectar, reconocer y gestionar la entrada de visitantes en la puerta principal. Este sistema proporcionará a los residentes una solución de seguridad integral que combina comodidad, eficiencia y protección, asegurando un entorno más seguro y controlado.
