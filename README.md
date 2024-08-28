@@ -1,4 +1,4 @@
-# Proyecto de Sistema de Seguridad con Cámara en la Puerta
+![Imagen de WhatsApp 2024-08-28 a las 15 18 14_0c094a0f](https://github.com/user-attachments/assets/6abfbad5-ae65-4043-a595-2dd058366387)# Proyecto de Sistema de Seguridad con Cámara en la Puerta
 
 # Equipo de Desarrollo
 
@@ -92,7 +92,7 @@ El proyecto consiste en desarrollar un sistema de seguridad inteligente que util
 
 # Arquitectura del proyecto
 
-<img src="https://github.com/user-attachments/assets/d74cdb45-4d67-46d1-a1c8-8cdf3f65a2d1" width="1000" >
+<img src="https://github.com/user-attachments/assets/d5f77eef-5543-41f7-94ff-0550d5bbf5ce" width="1000" >
 
 # Captura de pantalla del tablero Kanban
 
@@ -102,8 +102,23 @@ El proyecto consiste en desarrollar un sistema de seguridad inteligente que util
 
 # Circuito diseñado para el proyecto completo 
 
-<img src="https://github.com/user-attachments/assets/94e83282-cf9c-4a41-af52-843ac483c768" width="1000" >
+<img src="https://github.com/user-attachments/assets/18089642-508a-4992-826f-6c3b656587c7" width="1000" >
 
 
 # Resultados
-Aquí se listaran los resultados
+<img src="https://github.com/user-attachments/assets/c9cabf60-787d-4477-86bb-67d1c3c4348e" width="1000" >
+<img src="https://github.com/user-attachments/assets/65f47a3c-3fca-46be-880c-b2dba62205a6" width="1000" >
+<img src="https://github.com/user-attachments/assets/ba63419a-205d-497a-bd3d-078af4f50014" width="1000" >
+
+Planos de caja
+<img src="https://github.com/user-attachments/assets/12023bbc-e406-4731-b760-120d172463d0" width="1000" >
+
+
+# Dashboard
+
+<img src="https://github.com/user-attachments/assets/18089642-508a-4992-826f-6c3b656587c7" width="1000" >
+
+# Carta
+<img src="https://github.com/user-attachments/assets/10705554-f9c8-4783-9622-572ca10a0596" width="1000" >
+
+ 
