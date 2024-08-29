@@ -23,7 +23,6 @@ El proyecto consiste en desarrollar un sistema de seguridad inteligente que util
 | Nombre | Licencia | 
 |--------|----------|
 | Arduino IDE | GNU General Public License (GPL) | 
-| Node Red | Apache License 2.0 | 
 | Flutter | BSD 3-Clause License | 
 | ESP32 | MIT |
 | ESP32 Camera | MIT |
@@ -104,15 +103,17 @@ El proyecto consiste en desarrollar un sistema de seguridad inteligente que util
 
 <img src="https://github.com/user-attachments/assets/18089642-508a-4992-826f-6c3b656587c7" width="1000" >
 
+# Video Demostrativo
+[Video Demostrativo](https://www.youtube.com/watch?v=J-cqAHvEt4Q)
+
 
 # Resultados
 <img src="https://github.com/user-attachments/assets/c9cabf60-787d-4477-86bb-67d1c3c4348e" width="1000" >
 <img src="https://github.com/user-attachments/assets/65f47a3c-3fca-46be-880c-b2dba62205a6" width="1000" >
 <img src="https://github.com/user-attachments/assets/ba63419a-205d-497a-bd3d-078af4f50014" width="1000" >
 
-Planos de caja
+# Planos de caja
 <img src="https://github.com/user-attachments/assets/12023bbc-e406-4731-b760-120d172463d0" width="1000" >
-
 
 # Dashboard
 
@@ -122,4 +123,6 @@ https://github.com/Arlyule/dashboard-SecureEyes.git
 # Carta
 <img src="https://github.com/user-attachments/assets/10705554-f9c8-4783-9622-572ca10a0596" width="1000" >
 
- 
+# Video de agradecimiento
+
+[Video de agradecimiento](https://youtu.be/6E4rt0JwYfY)
