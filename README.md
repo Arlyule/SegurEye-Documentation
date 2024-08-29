@@ -55,21 +55,14 @@ El proyecto consiste en desarrollar un sistema de seguridad inteligente que util
 
 # Épicas del Proyecto Wearable
 
-## 1. Reconocimiento de Visitantes
-**Descripción:** Implementar la capacidad de reconocer a los visitantes autorizados y no autorizados que se acerquen a la puerta.
-
-**Historias de Usuario:**
-- Como residente, quiero que el sistema reconozca automáticamente a los visitantes autorizados para evitar activar algún sistema de alertas.
-- Como residente, quiero recibir una notificación cuando el sistema detecte a un visitante no autorizado para poder tomar medidas adicionales de seguridad.
-
-## 2. Interfaz de Usuario Intuitiva
+## 1. Interfaz de Usuario Intuitiva
 **Descripción:** Crear una interfaz de usuario fácil de usar para controlar y monitorear el sistema de seguridad.
 
 **Historias de Usuario:**
 - Como residente, quiero poder ver imágenes en tiempo real de la cámara de la puerta desde mi dispositivo móvil para verificar quién está afuera.
 - Como residente, quiero poder ver toda la información registrada por el sistema de seguridad por medio de reportes, gráficas y tablas.
 
-## 3. Integración de Dispositivos IoT
+## 2. Integración de Dispositivos IoT
 **Descripción:** Integrar el sistema de seguridad con otros dispositivos IoT del hogar para una mayor automatización y control.
 
 **Historias de Usuario:**
@@ -117,9 +110,9 @@ El proyecto consiste en desarrollar un sistema de seguridad inteligente que util
 
 # Dashboard
 
-<img src="https://github.com/user-attachments/assets/18089642-508a-4992-826f-6c3b656587c7" width="1000" >
-https://github.com/Arlyule/dashboard-SecureEyes.git
+<img src="https://github.com/user-attachments/assets/2265d1d7-4dab-464c-ae0e-9c55bd511dac" width="1000" >
 
+[Dashboard](https://github.com/Arlyule/dashboard-SecureEyes.git)
 # Carta
 <img src="https://github.com/user-attachments/assets/10705554-f9c8-4783-9622-572ca10a0596" width="1000" >
 
