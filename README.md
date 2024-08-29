@@ -13,7 +13,7 @@
 2. Julio Torres (Product Owner)
 
 # Visión
-El proyecto busca revolucionar la seguridad del hogar mediante la implementación de un sistema inteligente y autónomo que utiliza tecnología avanzada para detectar, reconocer y gestionar la entrada de visitantes en la puerta principal. Este sistema proporcionará a los residentes una solución de seguridad integral que combina comodidad, eficiencia y protección, asegurando un entorno más seguro y controlado.
+El proyecto busca revolucionar la seguridad del hogar mediante la implementación de un sistema inteligente y autónomo que utiliza tecnología avanzada para detectar, reconocer la entrada de visitantes en la puerta principal. Este sistema proporcionará a los residentes una solución de seguridad integral que combina comodidad, eficiencia y protección, asegurando un entorno más seguro y controlado.
 
 # Descripción del Proyecto
 El proyecto consiste en desarrollar un sistema de seguridad inteligente que utilice una cámara instalada en la puerta principal para detectar y reconocer a los visitantes, proporcionando un control de acceso seguro y conveniente para los residentes del hogar. El sistema estará equipado con tecnologías avanzadas como reconocimiento facial y detección de objetos inteligente, ofreciendo una experiencia de seguridad innovadora y fácil de usar.
@@ -49,9 +49,8 @@ El proyecto consiste en desarrollar un sistema de seguridad inteligente que util
 
 | Épica | Historia de Usuario | Prioridad | Puntos de Historia |
 |-------|---------------------|-----------|--------------------|
-| 1     | Reconocimiento de Visitantes | Alta | 8 |
-| 2     | Control de Acceso | Alta | 5 |
-| 3     | Interfaz de Usuario Intuitiva | Media | 3 |
+| 1    | Control de Acceso | Alta | 5 |
+| 2     | Interfaz de Usuario Intuitiva | Media | 3 |
 
 # Épicas del Proyecto Wearable
 
