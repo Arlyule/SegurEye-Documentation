@@ -1,4 +1,4 @@
-![Imagen de WhatsApp 2024-08-28 a las 15 18 14_0c094a0f](https://github.com/user-attachments/assets/6abfbad5-ae65-4043-a595-2dd058366387)# Proyecto de Sistema de Seguridad con Cámara en la Puerta
+# Proyecto de Sistema de Seguridad con Cámara en la Puerta
 
 # Equipo de Desarrollo
 
